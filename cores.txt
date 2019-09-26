@@ -1,0 +1,2 @@
+azul claro : #007ead / botão e fonte
+azul escuro : #006f98 / hover do botão e fonte
